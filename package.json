@@ -1,7 +1,7 @@
 {
   "name": "last-buffer",
   "main": "./lib/last-buffer",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Jump to the last buffer",
   "keywords": [],
   "repository": "https://github.com/xream/atom-last-buffer",
