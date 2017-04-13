@@ -5,3 +5,7 @@
 ## 3.0.0
 
 * refactor
+
+## 3.1.0
+
+* skip tree view
