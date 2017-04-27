@@ -9,3 +9,7 @@
 ## 3.1.0
 
 * skip tree view
+
+## 3.1.1
+
+* fix subscriptions
